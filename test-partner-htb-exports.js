@@ -1,4 +1,4 @@
-/**
+/** test
  *  This file contains any necessary functions that need to be exposed to the outside world.
  *  Things like (render functions) will be exposed by adding them to the shellInterface variable, under the partners
  *  profile name. This function will then be accessible through the window.headertag.TestPartnerHtb object.
