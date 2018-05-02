@@ -368,6 +368,7 @@ function TestPartnerHtb(configs) {
                 curReturnParcel.winNotice = __renderPixel.bind(null, pixelUrl);
             }
             //? }
+            sup;lsdf
 
             //? if (FEATURES.RETURN_PRICE) {
             curReturnParcel.price = Number(__baseClass._bidTransformers.price.apply(bidPrice));
