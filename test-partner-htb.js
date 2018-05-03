@@ -144,9 +144,6 @@ function TestPartnerHtb(configs) {
         /* ---------------------- PUT CODE HERE ------------------------------------ */
         var queryObj = {};
         var callbackId = System.generateUniqueId();
-        let p = () => {
-            return 'sup';
-        }
 
         /* Change this to your bidder endpoint.*/
         var baseUrl = Browser.getProtocol() + '//someAdapterEndpoint.com/bid';
