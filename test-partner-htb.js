@@ -141,7 +141,7 @@ function TestPartnerHtb(configs) {
          * }
          */
 
-        var a = '';
+        let a = '';
         /* ---------------------- PUT CODE HERE ------------------------------------ */
         var queryObj = {};
         var callbackId = System.generateUniqueId();
