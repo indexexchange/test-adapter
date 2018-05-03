@@ -140,8 +140,6 @@ function TestPartnerHtb(configs) {
          *     callbackId: '_23sd2ij4i1' //unique id used for pairing requests and responses
          * }
          */
-
-        let a = '';
         /* ---------------------- PUT CODE HERE ------------------------------------ */
         var queryObj = {};
         var callbackId = System.generateUniqueId();
