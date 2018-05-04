@@ -163,6 +163,7 @@ function TestPartnerHtb(configs) {
          *      consentString: "BOQ7WlgOQ7WlgABABwAAABJOACgACAAQABA"
          * }
          */
+         var demo = 'hi'
         var gdprStatus = ComplianceService.gdpr.getConsent();
 
         /* ---------------- Craft bid request using the above returnParcels --------- */
