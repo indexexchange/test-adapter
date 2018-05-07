@@ -205,6 +205,8 @@ function TestPartnerHtb(configs) {
      * -----------------------------------------------------------------------------
      *
     */
+    var sub = 'huh';
+    let fail = true;
 
      /**
      * This function will render the pixel given.
