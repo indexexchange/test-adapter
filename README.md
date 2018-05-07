@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of Content
 1. [Introduction](#intro)
     * [Repository Structure](#Repository)
     * [Getting Started](#gettingStarted)

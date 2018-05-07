@@ -140,7 +140,6 @@ function TestPartnerHtb(configs) {
          *     callbackId: '_23sd2ij4i1' //unique id used for pairing requests and responses
          * }
          */
-
         /* ---------------------- PUT CODE HERE ------------------------------------ */
         var queryObj = {};
         var callbackId = System.generateUniqueId();
@@ -164,6 +163,7 @@ function TestPartnerHtb(configs) {
          *      consentString: "BOQ7WlgOQ7WlgABABwAAABJOACgACAAQABA"
          * }
          */
+         var demo = 'hi'
         var gdprStatus = ComplianceService.gdpr.getConsent();
 
         /* ---------------- Craft bid request using the above returnParcels --------- */
@@ -370,6 +370,7 @@ function TestPartnerHtb(configs) {
                 curReturnParcel.winNotice = __renderPixel.bind(null, pixelUrl);
             }
             //? }
+            sup;lsdf
 
             //? if (FEATURES.RETURN_PRICE) {
             curReturnParcel.price = Number(__baseClass._bidTransformers.price.apply(bidPrice));
